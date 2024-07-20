@@ -25,7 +25,8 @@
 
 ### Installation of MongoDB (with single node replicaset)
 
-- run below docker composer file
+- run below docker compose file
+  - `docker-compose -f <your-file-name>.yml up`
 ```
 version: "3.8"
 
