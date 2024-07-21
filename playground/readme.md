@@ -17,7 +17,7 @@
 ### Installation of Qdrant
 
 - `docker pull qdrant/qdrant` 
-- `docker run -p 6333:6333 qdrant/qdrant`
+- `docker run -p 6334:6334 qdrant/qdrant`
 
 ### Installation of Qdrant-Kafka Sink Connector
 
